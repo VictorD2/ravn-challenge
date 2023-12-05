@@ -1,8 +1,6 @@
 "use client";
-import "react-toastify/dist/ReactToastify.css";
 import "remixicon/fonts/remixicon.css";
 import "../styles/globals.css";
-import { ToastContainer } from "react-toastify";
 import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import Container from "@/ui/Container";
 import PanelLayout from "@/shared/layouts/PanelLayout";
@@ -36,7 +34,6 @@ export default function RootLayout({
             size={{ width: "w-full" }}
             bgColor="bg-background"
           >
-            <ToastContainer />
             <PanelLayout>{children}</PanelLayout>
           </Container>
         </GlobalProvider>
