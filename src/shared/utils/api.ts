@@ -1,0 +1,4 @@
+export const DOMAIN_GRAPHQL = "https://syn-api-prod.herokuapp.com";
+export const API_GRAPHQL = `${DOMAIN_GRAPHQL}/graphql`;
+export const TOKEN =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwb3NpdGlvbklkIjoiYjkyMTU0MzgtNDYwNy00Yzc2LTlhMDMtMDQwNjk4NzhhZDEwIiwicHJvamVjdElkIjoiZTI2MmE3NjMtYWRlZi00YTFmLWE2NDctZGM1Yzk3NTZmYjRiIiwiZnVsbE5hbWUiOiJWaWN0b3IgR2FicmllbCBIZXJuw6FuZGV6IFZpbGxhbG9ib3MiLCJlbWFpbCI6InZpY3Rvcmh2MjcyOUBnbWFpbC5jb20iLCJpYXQiOjE3MDEzMDI2ODh9.WUotgBdLORLR4Ql8FxhrsBpY1T71KVRlqubmeqzufjE";
