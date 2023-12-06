@@ -22,6 +22,43 @@ The Ravn Challenge is a web application developed with Next.js that allows users
 
 ## 4. Screenshots
 
+### Dashboard View
+![Dashboard View](https://i.imgur.com/wzUaqyc.png)
+
+### Dashboard View List Mode]
+![Dashboard View List Mode](https://i.imgur.com/31SXjIB.png)
+
+### My Task View
+![My Task View](https://i.imgur.com/zEW7ITw.png)
+
+### Settings View
+![Settings View](https://i.imgur.com/KohiYAI.png)
+
+### Modal Add Task
+![Modal Add Task](https://i.imgur.com/YNVqWGO.png)
+
+### Modal Edit Task
+![Modal Edit Task](https://i.imgur.com/wW4DFC6.png)
+
+### Estimate Combo
+![Estimate Combo](https://i.imgur.com/ZOqYgtw.png)
+
+### Assignee Combo
+![Assignee Combo](https://i.imgur.com/CMunhv9.png)
+
+### Tags Combo List
+![Tags Combo List](https://i.imgur.com/p0PSkxC.png)
+
+### DatePicker
+![DatePicker](https://i.imgur.com/AXtbpBq.png)
+
+### Status Combo
+![Status Combo](https://i.imgur.com/be8aYPm.png)
+
+### Modal Delete Task
+![Modal Delete Task](https://i.imgur.com/NuKsj51.png)
+
+
 ## 5. Project Structure
 
     src
