@@ -64,11 +64,3 @@ The Ravn Challenge is a web application developed with Next.js that allows users
 - Remixicon
 
 
-
-
-
-Install packages
-
-- 
-- Gifs or screenshots of the working application.
-- Please provide a rationale for the decisions you made (about stack, project structure or anything else you want to mention)
